@@ -25,7 +25,15 @@
 You can get extra points by solving HW 6, but no more than 10 in total. Namely, `HW = (hw1 + hw2 + hw3 + hw4 + hw5 + hw6)/5`
 
 
-* `Exam` -  Grade for the exam. 
+* `Exam` -  Grade for the exam.
+
+## Recommended literature for advanced study
+
+* [Mathematics for Machine learning](https://mml-book.github.io/)
+* [An Introduction to Statistical Learning](https://www.statlearning.com/)
+* [Lectures on Probability Theory from Chernova, RU](https://tvims.nsu.ru/chernova/tv/portr.pdf)
+* [Lectures on Probability Theory (Mathematical statistics)] from Chernova, RU](https://tvims.nsu.ru/chernova/sibguti/ms-sibguti.pdf)
+
  ---
  
 You can skip the exam if mean grade for the assignemnts are **not smaller** than 5.5, i.e. (`HW >=5.5`). 
